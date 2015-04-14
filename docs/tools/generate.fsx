@@ -17,9 +17,9 @@ let githubLink = "http://github.com/exira/jil-mediatypeformatter"
 
 // Specify more information about your project
 let info =
-  [ "project-name", "Exira.Jil"
+  [ "project-name", "jil-mediatypeformatter"
     "project-author", "exira"
-    "project-summary", "MediaTypeFormatter based on Jil (https://github.com/kevin-montrose/Jil)"
+    "project-summary", "Exira.Jil is a MediaTypeFormatter based on Jil (https://github.com/kevin-montrose/Jil)"
     "project-github", githubLink
     "project-nuget", "http://nuget.org/packages/Exira.Jil" ]
 
