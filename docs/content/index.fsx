@@ -11,7 +11,7 @@ jil-mediatypeformatter
   <div class="span1"></div>
   <div class="span6">
     <div class="well well-small" id="nuget">
-      The ges library can be <a href="https://nuget.org/packages/Exira.Jil">installed from NuGet</a>:
+      The jil-mediatypeformatter library can be <a href="https://nuget.org/packages/Exira.Jil">installed from NuGet</a>:
       <pre>PM> Install-Package Exira.Jil</pre>
     </div>
   </div>
