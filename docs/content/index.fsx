@@ -18,7 +18,6 @@ jil-mediatypeformatter [![Travis build status](https://travis-ci.org/exira/jil-m
   <div class="span1"></div>
 </div>
 
-
 Contributing and copyright
 --------------------------
 

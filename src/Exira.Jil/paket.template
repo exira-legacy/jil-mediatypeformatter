@@ -1,10 +1,10 @@
 type project
 owners
     exira
-authors 
+authors
     exira
 projectUrl
-    http://github.com/exira/jil-mediatypeformatter
+    http://git.exira.com/jil-mediatypeformatter/
 iconUrl
     https://raw.githubusercontent.com/exira/jil-mediatypeformatter/master/docs/files/img/logo.png
 licenseUrl
